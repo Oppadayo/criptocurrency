@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="criptocurreny" title="#criptocurreny" src="./assets/criptocurreny.gif" />
+    <img alt="criptocurreny" title="#criptocurreny" src="./assets/criptocurrency.gif" />
 </h1>
 
 <h4 align="center"> 
-	CriptoCurrency
+	CryptoCurrency
 </h4>
 
 <p align="center">
